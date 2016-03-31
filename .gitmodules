@@ -1,0 +1,4 @@
+[submodule "M1CAR_Socket"]
+	path = M1CAR_Socket
+[submodule "M1CAR_Socket"]
+	url = https://github.com/Rousscot/M1CAR_Socket.git
