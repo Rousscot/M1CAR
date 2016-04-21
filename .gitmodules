@@ -2,3 +2,7 @@
 	path = M1CAR_Socket
 [submodule "M1CAR_Socket"]
 	url = https://github.com/Rousscot/M1CAR_Socket.git
+[submodule "M1CAR_Repertoire"]
+	path = M1CAR_Repertoire
+[submodule "M1CAR_Repertoire"]
+	url = https://github.com/Rousscot/M1CAR_Repertoire.git
