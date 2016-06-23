@@ -10,3 +10,6 @@
 	path = M1CAR_Servlet
 [submodule "M1CAR_Servlet"]
 	url = http://github.com/Rousscot/M1CAR_Servlet.git
+[submodule "M1CAR_RMI_Intro"]
+	path = M1CAR_RMI_Intro
+	url = https://github.com/Rousscot/M1CAR_RMI_Intro.git
