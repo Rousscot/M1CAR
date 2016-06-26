@@ -13,3 +13,6 @@
 [submodule "M1CAR_RMI_Intro"]
 	path = M1CAR_RMI_Intro
 	url = https://github.com/Rousscot/M1CAR_RMI_Intro.git
+[submodule "M1CAR_PEER2PEER"]
+	path = M1CAR_PEER2PEER
+	url = git@github.com:Rousscot/M1CAR_PEER2PEER.git
